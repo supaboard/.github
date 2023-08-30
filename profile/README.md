@@ -1,12 +1,20 @@
-## Hi there 👋
+<p align="center">
 
-<!--
 
-**Here are some ideas to get you started:**
+  <h3 align="center">Supaboard</h3>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+  <p align="center">
+    The dashbord builder for Supabase and Postgres.
+    <br />
+    <a href="https://supaboard.co"><strong>Learn more »</strong></a>
+    <br />
+    <br />
+    <a href="https://discord.com/invite/mh45XDfED4">Discord</a>
+    ·
+    <a href="https://supaboard.co">Website</a>
+    ·
+    <a href="https://github.com/supaboard/app/issues">Issues</a>
+    ·
+    <a href="https://github.com/orgs/supaboard/discussions">Discussions</a>
+  </p>
+</p>
